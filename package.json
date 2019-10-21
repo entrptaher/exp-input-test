@@ -1,0 +1,17 @@
+{
+  "name": "input-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@entrptaher/simulate-event": "^2.0.0",
+    "@entrptaher/simulate-type": "^2.0.0",
+    "draft-js": "^0.11.1",
+    "immutable": "^4.0.0-rc.12",
+    "keysim": "^2.1.0",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-trigger-change": "^1.0.2",
+    "waait": "^1.0.5"
+  }
+}
